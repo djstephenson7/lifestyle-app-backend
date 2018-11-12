@@ -1,24 +1,65 @@
-# README
+# Garden Todos
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A web app that visualises your todo lists as beautiful gardens!
 
-Things you may want to cover:
+### MVP interaction
 
-* Ruby version
+Garden Todos: you complete a todo, a plant appears.
 
-* System dependencies
+## User Stories
 
-* Configuration
+### MVP
 
-* Database creation
+```
+As a user,
+So I can have my own account,
+I’d like to be able to sign up with my details.
 
-* Database initialization
+As a user,
+So I can use my account,
+I’d like to be able to login with my details.
 
-* How to run the test suite
+As a user,
+So I can prioritise important tasks,
+I’d like to see my list of todos.
 
-* Services (job queues, cache servers, search engines, etc.)
+As a user,
+So I can add important tasks,
+I’d like to create new tasks for my todo list.
 
-* Deployment instructions
+As a user,
+So I can update my tasks,
+I’d like to be able to mark todos as completed.
 
-* ...
+As a user,
+So I can see my todos a different way,
+I’d like to see a garden with seeds
+
+As a user,
+So I can have some visual motivation,
+I’d like completed todos to replace seeds with trees.
+```
+
+## Getting Started
+
+### Prerequisites
+
+### Installing
+
+## Running the tests
+
+### And coding style tests
+
+## Deployment
+
+## Built With
+
+## Contributing
+
+## Versioning
+
+## Authors
+
+## License
+
+## Acknowledgments
